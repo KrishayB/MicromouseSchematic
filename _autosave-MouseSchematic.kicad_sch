@@ -9858,8 +9858,8 @@
 		(uuid 0dc5d28b-9159-478d-9289-2d69b4d72b37)
 	)
 	(rectangle
-		(start 191.77 29.21)
-		(end 231.14 66.04)
+		(start 448.31 170.18)
+		(end 487.68 207.01)
 		(stroke
 			(width 0)
 			(type dash)
@@ -10155,7 +10155,7 @@
 	)
 	(text "Headers"
 		(exclude_from_sim no)
-		(at 197.104 26.67 0)
+		(at 453.644 167.64 0)
 		(effects
 			(font
 				(size 1.905 1.905)
@@ -10579,7 +10579,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 43.18) (xy 209.55 43.18)
+			(xy 458.47 184.15) (xy 466.09 184.15)
 		)
 		(stroke
 			(width 0)
@@ -10599,7 +10599,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 62.23) (xy 209.55 62.23)
+			(xy 458.47 203.2) (xy 466.09 203.2)
 		)
 		(stroke
 			(width 0)
@@ -10759,7 +10759,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 35.56) (xy 209.55 35.56)
+			(xy 458.47 176.53) (xy 466.09 176.53)
 		)
 		(stroke
 			(width 0)
@@ -10809,7 +10809,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 57.15) (xy 209.55 57.15)
+			(xy 458.47 198.12) (xy 466.09 198.12)
 		)
 		(stroke
 			(width 0)
@@ -10849,7 +10849,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 38.1) (xy 209.55 38.1)
+			(xy 458.47 179.07) (xy 466.09 179.07)
 		)
 		(stroke
 			(width 0)
@@ -11179,7 +11179,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 40.64) (xy 209.55 40.64)
+			(xy 458.47 181.61) (xy 466.09 181.61)
 		)
 		(stroke
 			(width 0)
@@ -11239,7 +11239,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 59.69) (xy 209.55 59.69)
+			(xy 458.47 200.66) (xy 466.09 200.66)
 		)
 		(stroke
 			(width 0)
@@ -11479,7 +11479,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 45.72) (xy 209.55 45.72)
+			(xy 458.47 186.69) (xy 466.09 186.69)
 		)
 		(stroke
 			(width 0)
@@ -11529,7 +11529,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 54.61) (xy 209.55 54.61)
+			(xy 458.47 195.58) (xy 466.09 195.58)
 		)
 		(stroke
 			(width 0)
@@ -11699,7 +11699,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 33.02) (xy 209.55 33.02)
+			(xy 458.47 173.99) (xy 466.09 173.99)
 		)
 		(stroke
 			(width 0)
@@ -11879,7 +11879,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 52.07) (xy 209.55 52.07)
+			(xy 458.47 193.04) (xy 466.09 193.04)
 		)
 		(stroke
 			(width 0)
@@ -11939,7 +11939,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 49.53) (xy 209.55 49.53)
+			(xy 458.47 190.5) (xy 466.09 190.5)
 		)
 		(stroke
 			(width 0)
@@ -12898,7 +12898,7 @@
 		(uuid "29826bb4-d01c-4b4b-ae7d-20e87c4cbdfe")
 	)
 	(label "LENC1"
-		(at 209.55 52.07 180)
+		(at 466.09 193.04 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12968,7 +12968,7 @@
 		(uuid "6e3dfd10-66d6-4487-9763-ca1019157439")
 	)
 	(label "LENC2"
-		(at 209.55 54.61 180)
+		(at 466.09 195.58 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12978,7 +12978,7 @@
 		(uuid "6fdb7089-676b-496c-83d6-adedbd1fa87d")
 	)
 	(label "RENC1"
-		(at 209.55 35.56 180)
+		(at 466.09 176.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13088,7 +13088,7 @@
 		(uuid "eca4da73-00e7-4125-8385-3cc96b553a84")
 	)
 	(label "RENC2"
-		(at 209.55 38.1 180)
+		(at 466.09 179.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13197,7 +13197,7 @@
 	)
 	(global_label "MR2"
 		(shape input)
-		(at 201.93 43.18 180)
+		(at 458.47 184.15 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13207,7 +13207,7 @@
 		)
 		(uuid "11e0eee9-0c07-4c97-b0e7-e5b7158671c7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.0139 43.18 0)
+			(at 451.5539 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13241,7 +13241,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 201.93 33.02 180)
+		(at 458.47 173.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13251,7 +13251,7 @@
 		)
 		(uuid "16c05498-07dc-4633-9b12-55755477bb26")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.0743 33.02 0)
+			(at 451.6143 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13681,7 +13681,7 @@
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 201.93 40.64 180)
+		(at 458.47 181.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13691,7 +13691,7 @@
 		)
 		(uuid "5b640f24-794f-400e-ab1d-1091684d0aab")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.4372 40.64 0)
+			(at 451.9772 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13791,7 +13791,7 @@
 	)
 	(global_label "MR1"
 		(shape input)
-		(at 201.93 45.72 180)
+		(at 458.47 186.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13801,7 +13801,7 @@
 		)
 		(uuid "6e103e57-8d66-4a54-aa95-103ebf377a32")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.0139 45.72 0)
+			(at 451.5539 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13835,7 +13835,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 201.93 49.53 180)
+		(at 458.47 190.5 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13845,7 +13845,7 @@
 		)
 		(uuid "6f5d1f4c-6066-45bb-8afe-dc799d6d462d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.0743 49.53 0)
+			(at 451.6143 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13879,7 +13879,7 @@
 	)
 	(global_label "PA0"
 		(shape input)
-		(at 201.93 38.1 180)
+		(at 458.47 179.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13889,7 +13889,7 @@
 		)
 		(uuid "74356b03-4fdd-410b-9ebd-65aee77247be")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.3767 38.1 0)
+			(at 451.9167 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14033,7 +14033,7 @@
 	)
 	(global_label "ML1"
 		(shape input)
-		(at 201.93 62.23 180)
+		(at 458.47 203.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14043,7 +14043,7 @@
 		)
 		(uuid "851b1762-8c8a-4779-9844-d2d65be9376a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.2558 62.23 0)
+			(at 451.7958 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14143,7 +14143,7 @@
 	)
 	(global_label "PA9"
 		(shape input)
-		(at 201.93 52.07 180)
+		(at 458.47 193.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14153,7 +14153,7 @@
 		)
 		(uuid "94871ac3-ca94-409f-ac79-5418a66133c4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.3767 52.07 0)
+			(at 451.9167 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14209,7 +14209,7 @@
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 201.93 57.15 180)
+		(at 458.47 198.12 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14219,7 +14219,7 @@
 		)
 		(uuid "a48b4c26-6939-424a-aa9a-e0611f10d2fb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.4372 57.15 0)
+			(at 451.9772 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14715,7 +14715,7 @@
 	)
 	(global_label "PA8"
 		(shape input)
-		(at 201.93 54.61 180)
+		(at 458.47 195.58 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14725,7 +14725,7 @@
 		)
 		(uuid "dfad2b67-7ee2-43d4-86d9-999067d16416")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.3767 54.61 0)
+			(at 451.9167 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14737,7 +14737,7 @@
 	)
 	(global_label "PA1"
 		(shape input)
-		(at 201.93 35.56 180)
+		(at 458.47 176.53 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14747,7 +14747,7 @@
 		)
 		(uuid "e33175fc-b5a2-40a9-ad1e-56775d2b56c6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.3767 35.56 0)
+			(at 451.9167 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14759,7 +14759,7 @@
 	)
 	(global_label "ML2"
 		(shape input)
-		(at 201.93 59.69 180)
+		(at 458.47 200.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14769,7 +14769,7 @@
 		)
 		(uuid "e4317b16-8c16-417b-9d3e-d22563690cb6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.2558 59.69 0)
+			(at 451.7958 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21027,7 +21027,7 @@
 	)
 	(symbol
 		(lib_id "Connector01x06_6130XX11121_61300611121:6130XX11121_61300611121")
-		(at 214.63 38.1 270)
+		(at 471.17 179.07 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21036,7 +21036,7 @@
 		(fields_autoplaced yes)
 		(uuid "c0e26d25-f22a-4ec0-a00a-6d9924c8acf0")
 		(property "Reference" "J1"
-			(at 215.9 38.0999 90)
+			(at 472.44 179.0699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21045,7 +21045,7 @@
 			)
 		)
 		(property "Value" "Right Header"
-			(at 215.9 40.6399 90)
+			(at 472.44 181.6099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21054,7 +21054,7 @@
 			)
 		)
 		(property "Footprint" "6130XX11121_61300611121:61300611121"
-			(at 214.63 38.1 0)
+			(at 471.17 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21064,7 +21064,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 214.63 38.1 0)
+			(at 471.17 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21073,7 +21073,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 214.63 38.1 0)
+			(at 471.17 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21082,7 +21082,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "732-5319-ND"
-			(at 214.63 38.1 0)
+			(at 471.17 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21092,7 +21092,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/61300611121/Wurth+Electronics/view-part/?ref=snap"
-			(at 214.63 38.1 0)
+			(at 471.17 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21102,7 +21102,7 @@
 			)
 		)
 		(property "Description_1" "6 pins, 1 row, straight, gold plating"
-			(at 214.63 38.1 0)
+			(at 471.17 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21112,7 +21112,7 @@
 			)
 		)
 		(property "MF" "Wurth Electronics"
-			(at 214.63 38.1 0)
+			(at 471.17 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21122,7 +21122,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 214.63 38.1 0)
+			(at 471.17 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21132,7 +21132,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/61300611121/Wurth+Electronics/view-part/?ref=eda"
-			(at 214.63 38.1 0)
+			(at 471.17 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21142,7 +21142,7 @@
 			)
 		)
 		(property "MP" "61300611121"
-			(at 214.63 38.1 0)
+			(at 471.17 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22890,7 +22890,7 @@
 	)
 	(symbol
 		(lib_id "Connector01x06_6130XX11121_61300611121:6130XX11121_61300611121")
-		(at 214.63 54.61 270)
+		(at 471.17 195.58 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22899,7 +22899,7 @@
 		(fields_autoplaced yes)
 		(uuid "e2c894d4-b5d1-443b-89e4-b41567b6d614")
 		(property "Reference" "J2"
-			(at 215.9 54.6099 90)
+			(at 472.44 195.5799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22908,7 +22908,7 @@
 			)
 		)
 		(property "Value" "Left Header"
-			(at 215.9 57.1499 90)
+			(at 472.44 198.1199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22917,7 +22917,7 @@
 			)
 		)
 		(property "Footprint" "6130XX11121_61300611121:61300611121"
-			(at 214.63 54.61 0)
+			(at 471.17 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22927,7 +22927,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 214.63 54.61 0)
+			(at 471.17 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22936,7 +22936,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 214.63 54.61 0)
+			(at 471.17 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22945,7 +22945,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "732-5319-ND"
-			(at 214.63 54.61 0)
+			(at 471.17 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22955,7 +22955,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/61300611121/Wurth+Electronics/view-part/?ref=snap"
-			(at 214.63 54.61 0)
+			(at 471.17 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22965,7 +22965,7 @@
 			)
 		)
 		(property "Description_1" "6 pins, 1 row, straight, gold plating"
-			(at 214.63 54.61 0)
+			(at 471.17 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22975,7 +22975,7 @@
 			)
 		)
 		(property "MF" "Wurth Electronics"
-			(at 214.63 54.61 0)
+			(at 471.17 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22985,7 +22985,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 214.63 54.61 0)
+			(at 471.17 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22995,7 +22995,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/61300611121/Wurth+Electronics/view-part/?ref=eda"
-			(at 214.63 54.61 0)
+			(at 471.17 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23005,7 +23005,7 @@
 			)
 		)
 		(property "MP" "61300611121"
-			(at 214.63 54.61 0)
+			(at 471.17 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
