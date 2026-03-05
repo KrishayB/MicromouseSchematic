@@ -7752,6 +7752,92 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Pololu_motor:Pololu_Motor"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Motor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Pololu_Motor_1_1"
+				(polyline
+					(pts
+						(xy -3.81 12.7) (xy 3.81 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 2.54) (xy 3.81 12.7)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 7.62)
+					(radius 6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Resistor1.8k_RMCF0805JT1K80:RMCF0805JT1K80"
 			(pin_names
 				(offset 1.016)
@@ -9906,6 +9992,18 @@
 		(uuid 53f2b5cf-b216-4083-9144-6390e8fac902)
 	)
 	(rectangle
+		(start 144.78 138.43)
+		(end 191.77 153.67)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 5ae1c353-038d-46f2-88f9-1657547dc236)
+	)
+	(rectangle
 		(start 59.69 111.76)
 		(end 118.11 190.5)
 		(stroke
@@ -10102,6 +10200,16 @@
 			)
 		)
 		(uuid "6551a597-ca63-48ed-b676-ae70cc73a349")
+	)
+	(text "Motors"
+		(exclude_from_sim no)
+		(at 149.098 136.144 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+			)
+		)
+		(uuid "6610b79f-c230-445e-acbd-5789d100b890")
 	)
 	(text "Left IR Emitter"
 		(exclude_from_sim no)
@@ -14939,6 +15047,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Pololu_motor:Pololu_Motor")
+		(at 176.53 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "05472aa5-9c31-4b30-8609-2e0deccaf775")
+		(property "Reference" "Motor2"
+			(at 184.15 144.7799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 184.15 147.3199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pololu_Motor:Pololu_Motor"
+			(at 176.53 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 176.53 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "MouseSchematic"
+				(path "/a8212d07-d284-4713-b6f1-5033ff009a76"
+					(reference "Motor2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Button_FSM4JSMA:FSM4JSMA")
 		(at 163.83 55.88 270)
 		(unit 1)
@@ -17151,6 +17323,70 @@
 			(project "MouseSchematic"
 				(path "/a8212d07-d284-4713-b6f1-5033ff009a76"
 					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Pololu_motor:Pololu_Motor")
+		(at 152.4 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "54dc5964-9830-4e29-9c84-81a3bf91efcd")
+		(property "Reference" "Motor1"
+			(at 160.02 144.7799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 160.02 147.3199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pololu_Motor:Pololu_Motor"
+			(at 152.4 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 152.4 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/a8212d07-d284-4713-b6f1-5033ff009a76"
+					(reference "Motor1")
 					(unit 1)
 				)
 			)
